@@ -3,7 +3,7 @@
 Summary:	Firmware for the ISL3880 and ISL3890 Driver
 Name:		isl3890-firmware
 Version:	1.0.4.3
-Release:	1
+Release:	2
 License:	distributable
 Group:		System Environment/Kernel
 Source0:	http://prism54.org/firmware/1.0.4.3.arm
